@@ -28,6 +28,8 @@ Each DXF file is ready for laser cut at sendcutsend.com.
 
 ## Mad Catz TE1
 
+Also compatible with Panzer 4, but you need to cut part of the case to make room for the two thumb buttons.
+
 ##### Filename:  te1_split_standard.dxf
 
 ![te1 split standard](te1/photo/te1_split_standard.png)
@@ -35,8 +37,6 @@ Each DXF file is ready for laser cut at sendcutsend.com.
 ![te1 split standard photo](te1/photo/te1_split_standard_photo.png)
 
 ## Mad Catz TE2
-
-Also compatible with Panzer 4, but you need to cut part of the case to make room for the two thumb buttons.
 
 ##### Filename:  te2_split_wasd.dxf
 
